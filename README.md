@@ -1,4 +1,4 @@
-# Exercise with abstracts class & methods 
+# Exercise with abstracts classes & methods 
 
 
 >### Status: Finished ✔️
@@ -28,6 +28,5 @@ polimorfismo, atributos, objetos, construtores, encapsulamento e listas.<br><br>
 <img src="https://github.com/Leothurm/Exercise-class-method-abstract/blob/main/img/Estrutura.PNG">
 
 </div>
-
 
 ---
