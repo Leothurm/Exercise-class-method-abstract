@@ -56,9 +56,9 @@ public class Program {
 			
 			/* Another way to print without the method "toString"
 			System.out.println(tp.getName() + ": $ " + String.format("%.2f", tp.tax()));
-			totalTaxes += tp.tax();
 			*/
 			
+			totalTaxes += tp.tax();
 		}
 		
 		System.out.println();
