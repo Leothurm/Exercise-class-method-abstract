@@ -1,4 +1,4 @@
-# Exercise with abstracts class& methods 
+# Exercise with abstracts class & methods 
 
 
 >### Status: Finished ✔️
