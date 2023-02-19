@@ -11,7 +11,7 @@
 ---
 
 >## SOBRE ❓
-> Exercício sobre classes e metodos abstrados para exercitar programação orientada a objeto utilizando outros conceitos também, como por exemplo:
+> Exercício sobre classes e métodos abstratos para exercitar programação orientada a objeto utilizando outros conceitos também, como por exemplo:
 polimorfismo, atributos, objetos, construtores, encapsulamento e listas.<br><br>
 
 ---
